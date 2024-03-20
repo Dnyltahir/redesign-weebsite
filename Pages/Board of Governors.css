@@ -1,0 +1,30 @@
+html body {height: 100%;}
+body {background: radial-gradient(#a1283b,#272525);color: white;}
+h1 {margin-top: 2%; position: relative; top: -40%}
+
+
+#head {background: #a1283b;color: white;height: 10em; text-align: center;}
+#logo {float: left; height:60%; background:#a1283b;margin: 1%; position: relative; top: 7%; left: 30%;}
+
+#drimg {border: 2px double white;}
+
+.maintopic {text-align: center;}
+.messagetopic {float: right;}
+.first {float: right; margin-left: 30%;}
+.second {float: right; margin-left: 30%;}
+.third {float: right; margin-right: 49%;}
+* {clear: both;}
+.memberstopic {text-align: center;}
+.boardnames { margin:  2.5em; }
+.whole {margin-top: -25em;}
+img {position: relative; left: 5em; top: 2em;}
+.Prof {position: relative; top: 0.5em; left: 2em;}
+#link {color: aliceblue; background-color: #a1283b; display: grid;  grid-template-columns: 33% 33% 33%; position: relative; top: -3.5%;
+ border: 5px double white; margin: 2%;}
+
+a:link {color: white; text-decoration: none;}
+a {color: aliceblue;}
+iframe:hover {border: 10px solid white;}
+
+ #one {margin-left: 2%;}
+body {background-color: #a1283b;}

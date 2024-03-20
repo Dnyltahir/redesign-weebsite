@@ -1,0 +1,41 @@
+body {color: white; background: radial-gradient(#a1283b,#272525);}
+
+h1 {margin-top: 2%; position: relative; top: -40%}
+
+
+#head {background: #a1283b;color: white;height: 10em; text-align: center;}
+#logo {float: left; height:60%; background:#a1283b;margin: 1%; position: relative; top: 7%; left: 30%;}
+
+#main1 {margin-left: 2%;}
+
+.message {float: right; position: relative; bottom: 12.5em; right: 29.625em;}
+.HOD {float: right; position: relative; bottom: 20em; margin-left: 30em;}
+h1 {text-align: center;}
+.INTRODUCTION {float: right; position: relative; bottom: 18em; right: 46.625em;}
+.first {float: right; position: relative; bottom: 22em; margin-left: 30em;}
+.second {float: right; position: relative; bottom: 22em; margin-left: 30em;}
+.third {float: right; position: relative; bottom: 22em; margin-left: 30em;}
+.fourth {float: right; position: relative; bottom: 22em; margin-left: 30em;}
+.fifth {float: right; position: relative; bottom: 22em; margin-left: 30em;} 
+.faculty {text-align: center; position: relative; bottom: 12em;}
+* {clear: both;}
+.img2 {text-align: center; margin-top: -15em;}
+.img1 {position: relative; left: 5em; top: 4em;}
+body {background-color: #a1283b;}
+.name {position: relative; left: 5.75em; top: 2.5em;}
+.name1 {position: relative; left: 6.75em; top: 2em;} 
+.main { background-color: #a1283b; display: grid; grid-template-columns: 33% 33% 33%; position: relative; top: -18.5em;}
+.cheading {text-align: center; margin-top: 2em;}
+.main2 { background-color: #a1283b; display: grid; grid-template-columns: 33% 33% 33%;}
+.last {text-align: center;}
+.facilities {margin-top: 1.5em;}
+#link {color: aliceblue; background-color: #a1283b; display: grid;  grid-template-columns: 33% 33% 33%; border: 5px double white; margin: 1%; margin-top: 5%;}
+
+#one {margin-left: 2%;}
+
+a:link {color: white; text-decoration: none;}
+a {color: aliceblue;}
+iframe:hover {border: 10px solid white;}
+
+#mar {margin: 4%;}
+#left1 {float: left;}

@@ -1,0 +1,44 @@
+html, body{height: 100%;}
+#text {background: #a1283b; color: white; border: 5px solid black; position: relative; top: -3.3%;}
+#dr {float: left; margin: 2px; background: #a1283b; margin-top: -.00009%; border: 6px double white;}
+h2 {text-align: center; background: #a1283b;margin: 8%; color: white;}
+div p {margin-top: 2%; text-align: center; background: #a1283b; color: white;}
+#bt {border-radius: 50px; border: 2px solid grey; width: 35%; height: 10%; margin: 2%; position: relative; left: 10%; font-size: 125%; font-weight: bold; border:2px double #a1283b ;}
+video {width: 100%; height: 40%; position: relative; top: -3.5%;}
+#bt:hover {background: goldenrod; box-shadow: 3px 3px #a1283b; text-shadow: 3px 3px 10px white;}
+#dbutton {background: radial-gradient(#a1283b,#272525 90%); position: relative; top: -3.5%; z-index: 1;}
+#question {border: 10px double #a1283b;  font-weight: bold; background: rgb(200, 184, 184); position: relative; top: -3.5%;}
+#hq {color: white;}
+details {color: black; margin: 2%;}
+summary {color: #a1283b;}
+#link {color: aliceblue; background-color: #a1283b; display: grid;  grid-template-columns: 33% 33% 33%; position: relative; top: -3.5%;}
+a:link {color: white;}
+iframe:hover {border: 10px solid white;}
+#video {position: relative; top: -3.5%;}
+#img { text-align: center; background: rgb(200, 184, 184);}
+#extra {background: #a1283b; color: white; height: 250px;}
+#extra h2{border: 2px double white;}
+#left {float: left; height: 80%;}
+#right {float: right; height: 80%;}
+.up {position: relative; top: -4%;}
+#bt a:hover{color: aliceblue;}
+#nav {text-align: center; background: #272525; position: relative; top: 20%; left: 12%; z-index: 5;}
+		ul {list-style: none; background: #a1283b;  color: #a1283b; text-align: center; }
+		ul li {float: left; display: block; background: #a1283b;  margin: 2%; text-align: center; padding: 20px; font-size: 1.3em;}
+		ul li ul li {display: none; float: none; padding: 10px; font-size: 1em;}
+		ul li:hover ul li {display: block; font-size: 1em; }
+		ul li {color: white;}
+		ul li a{color: white; text-decoration: none;}
+		ul li:hover {background: goldenrod;  color: #a1283b;}
+		ul li a:hover {color: #a1283b;}
+		li:hover {background: 2px double white;}
+		ul:hover {background: #a1283b;}
+		ul li:active ul li {display: block; font-size: 1em; }
+
+#head {background: #a1283b;color: white;height: 30%; text-align: center;}
+#logo {float: left; height:50%; background:#a1283b;margin: 1%; position: relative; top: 1%; left: 32%;}
+ 
+h1 {margin-top: 1.5%; position: relative; top: 20%; left: -2%;}	
+.pad {padding: 1%;}	
+
+
